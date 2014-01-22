@@ -5,7 +5,7 @@ infrastructural support at the application level: Spring focuses on the "plumbin
 applications so that teams can focus on application-level business logic, without unnecessary ties
 to specific deployment environments.
 
-The framework also serves as the foundation for
+The framework also serves as the foundation for 
 [Spring Integration](https://github.com/SpringSource/spring-integration),
 [Spring Batch](https://github.com/SpringSource/spring-batch) and the rest of the Spring
 [family of projects](http://springsource.org/projects). Browse the repositories under the
